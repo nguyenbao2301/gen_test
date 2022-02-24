@@ -1,0 +1,104 @@
+mở:O giúp:O một:O bài:O hát:O của:O nhạc:O sĩ:O đông:B-artist quân:I-artist
+mở:O giúp:O một:O bài:O nào:O đó:O trong:O album:O cô:B-album đơn:I-album dành:I-album cho:I-album ai:I-album
+mở:O dùm:O tôi:O một:O bài:O hát:O quê:B-genre hương:I-genre gì:O đó:O
+bật:O cho:O một:O bài:O nhạc:O gì:O đó:O trong:O bắt:B-album cá:I-album không:I-album anh:I-album
+bật:O giúp:O bài:O nói:B-song_name chia:I-song_name tay:I-song_name thật:I-song_name khó:I-song_name trong:O album:O nói:B-album chia:I-album tay:I-album thật:I-album khó:I-album
+mở:O cho:O một:O bài:O nhạc:O trữ:B-genre tình:I-genre nào:O đó:O của:O ca:O sĩ:O lưu:B-artist ánnh:I-artist loan:I-artist
+mở:O một:O bài:O trong:O album:O ốc:B-album đắng:I-album buồn:I-album ai:I-album của:O ca:O sĩ:O đan:B-artist trường:I-artist
+mở:O giúp:O bài:O hát:O mang:B-song_name tiền:I-song_name về:I-song_name cho:I-song_name mẹ:I-song_name
+bật:O giùm:O một:O bài:O nào:O đó:O của:O khưu:B-artist huy:I-artist vũ:I-artist
+bật:O bài:O thì:B-song_name thôi:I-song_name của:O ca:O sĩ:O TVK:B-artist
+bật:O cho:O bài:O không:B-song_name trọn:I-song_name vẹn:I-song_name nữa:I-song_name của:O ban:O nhạc:O châu:B-artist khải:I-artist phong:I-artist
+bật:O cho:O một:O bài:O gì:O đó:O của:O ca:O sĩ:O khưu:B-artist huy:I-artist vũ:I-artist
+bật:O cho:O một:O bài:O hát:O tết:B-genre
+bật:O giúp:O một:O bài:O của:O nghệ:O sĩ:O khưu:B-artist huy:I-artist vũ:I-artist
+bật:O một:O bài:O nhạc:O trong:O ai:B-album mang:I-album cô:I-album đơn:I-album đi:I-album của:O KICM:B-artist và:O APJ:B-artist
+bật:O bài:O hát:O trường:B-song_name sơn:I-song_name đông:I-song_name trường:I-song_name sơn:I-song_name tây:I-song_name của:O ban:O nhạc:O đông:B-artist quân:I-artist
+cho:O tôi:O nghe:O một:O bài:O tết:B-genre nào:O đó:O
+mở:O cho:O bài:O hát:O không:B-song_name trọn:I-song_name vẹn:I-song_name nữa:I-song_name trong:O album:O không:B-album trọn:I-album vẹn:I-album nữa:I-album
+bật:O giúp:O bài:O nhạc:O về:B-song_name lại:I-song_name đồi:I-song_name sim:I-song_name trong:O song:B-album ca:I-album rumba:I-album của:O ca:O sĩ:O lưu:B-artist ánh:I-artist loan:I-artist
+bật:O giùm:O tôi:O một:O bài:O nhạc:O gì:O đó:O trong:O album:O chung:B-album một:I-album dòng:I-album sông:I-album của:O khưu:B-artist huy:I-artist vũ:I-artist
+mở:O cho:O tôi:O một:O bài:O nhạc:O nào:O đó:O trong:O lưu:B-album số:I-album em:I-album đi:I-album của:O nhóm:O huỳnh:B-artist vân:I-artist
+mở:O giúp:O tôi:O một:O bài:O nhạc:O nào:O đó:O trong:O album:O cơn:B-album mưa:I-album bình:I-album yên:I-album
+mở:O cho:O một:O bài:O hát:O trong:O suốt:B-album đời:I-album không:I-album xứng:I-album
+mở:O dùm:O tôi:O một:O bài:O nhạc:O của:O ca:O sĩ:O tăng:B-artist phúc:I-artist
+bật:O giúp:O tôi:O một:O bài:O hát:O trong:O không:B-album trọn:I-album vẹn:I-album nữa:I-album của:O nhóm:O châu:B-artist khải:I-artist phong:I-artist
+bật:O cho:O một:O bài:O nào:O đó:O trong:O album:O thôi:B-album em:I-album về:I-album đi:I-album em:I-album
+bật:O bài:O hát:O diệu:B-song_name kỳ:I-song_name việt:I-song_name nam:I-song_name của:O ca:O sĩ:O bích:B-artist phương:I-artist
+bật:O giúp:O một:O bài:O nhạc:O gì:O đó:O trong:O cơn:B-album mưa:I-album bình:I-album yên:I-album của:O ca:O sĩ:O lãnh:B-artist cung:I-artist và:O nghệ:O sĩ:O cường:B-artist
+bật:O giùm:O tôi:O một:O bài:O hát:O gì:O đó:O của:O ca:O sĩ:O khưu:B-artist huy:I-artist vũ:I-artist
+cho:O tôi:O nghe:O bài:O nhạc:O cô:B-song_name đơn:I-song_name dành:I-song_name cho:I-song_name ai:I-song_name trong:O cô:B-album đơn:I-album dành:I-album cho:I-album ai:I-album của:O ban:O nhạc:O lee:B-artist ken:I-artist
+mở:O giúp:O tôi:O bài:O trên:B-song_name nhjip:I-song_name cầu:I-song_name tre:I-song_name của:O nhóm:O khưu:B-artist huy:I-artist vũ:I-artist
+mở:O một:O bài:O nhạc:O tết:B-genre nào:O đó:O của:O nhóm:O khưu:B-artist huy:I-artist vũ:I-artist
+bật:O bài:O hát:O khuê:B-song_name mộc:I-song_name lang:I-song_name của:O ban:O nhạc:O hương:B-artist ly:I-artist
+bật:O giúp:O bài:O nhạc:O mang:B-song_name tiền:I-song_name về:I-song_name cho:I-song_name mẹ:I-song_name trong:O mang:B-album tiền:I-album về:I-album cho:I-album mẹ:I-album của:O đen:B-artist và:O ca:O sĩ:O nguyên:B-artist thảo:I-artist
+mở:O dùm:O tôi:O một:O bài:O nhạc:O nào:O đó:O của:O nghệ:O sĩ:O TVK:B-artist
+cho:O tôi:O nghe:O một:O bài:O nhạc:O trong:O album:O lưu:B-album số:I-album em:I-album đi:I-album
+bật:O cho:O một:O bài:O hát:O trong:O ví:B-album dầu:I-album đưa:I-album dâu:I-album của:O nghệ:O sĩ:O duy:B-artist khiêm:I-artist và:O ca:O sĩ:O diệu:B-artist kiên:I-artist
+bật:O giùm:O tôi:O một:O bài:O nhạc:O rap:B-genre gì:O đó:O
+bật:O cho:O bài:O hát:O thôi:B-song_name em:I-song_name về:I-song_name đi:I-song_name em:I-song_name trong:O thôi:B-album em:I-album về:I-album đi:I-album em:I-album của:O ca:O sĩ:O khưu:B-artist huy:I-artist vũ:I-artist và:O nghệ:O sĩ:O quỳnh:B-artist trang:I-artist
+mở:O dùm:O tôi:O bài:O nhạc:O áo:B-song_name em:I-song_name chưa:I-song_name mặc:I-song_name một:I-song_name lần:I-song_name
+bật:O giùm:O một:O bài:O nào:O đó:O của:O nhạc:O sĩ:O lưu:B-artist ánh:I-artist loan:I-artist
+mở:O cho:O bài:O hát:O chiều:B-song_name sân:I-song_name ga:I-song_name trong:O album:O lỗi:B-album tại:I-album ai:I-album của:O khưu:B-artist huy:I-artist vũ:I-artist
+mở:O dùm:O tôi:O một:O bài:O hát:O trẻ:B-genre gì:O đó:O của:O nghệ:O sĩ:O hương:B-artist ly:I-artist
+bật:O cho:O một:O bài:O gì:O đó:O trong:O album:O đôi:B-album vợ:I-album chồng:I-album quê:I-album
+mở:O dùm:O tôi:O một:O bài:O nào:O đó:O trong:O album:O có:B-album một:I-album tình:I-album yêu:I-album gọi:I-album là:I-album chia:I-album tay:I-album của:O ca:O sĩ:O tăng:B-artist phúc:I-artist và:O ca:O sĩ:O trương:B-artist thảo:I-artist nhi:I-artist
+mở:O giúp:O một:O bài:O hát:O nào:O đó:O trong:O album:O không:B-album trọn:I-album vẹn:I-album nữa:I-album của:O nhạc:O sĩ:O châu:B-artist khải:I-artist phong:I-artist
+mở:O cho:O một:O bài:O nhạc:O nào:O đó:O trong:O người:B-album lạ:I-album thoáng:I-album qua:I-album của:O ca:O sĩ:O đinh:B-artist tùng:I-artist huy:I-artist
+mở:O giùm:O bài:O nhạc:O dĩ:B-song_name vãng:I-song_name trong:O album:O để:B-album cho:I-album em:I-album khóc:I-album biển:I-album đêm:I-album của:O lưu:B-artist ánh:I-artist loan:I-artist
+bật:O cho:O tôi:O một:O bài:O xuân:B-genre nào:O đó:O của:O nhóm:O hoàng:B-artist thùy:I-artist linh:I-artist
+mở:O giùm:O bài:O nhạc:O cô:B-song_name đơn:I-song_name dành:I-song_name cho:I-song_name ai:I-song_name trong:O cô:B-album đơn:I-album dành:I-album cho:I-album ai:I-album của:O nhóm:O lee:B-artist ken:I-artist và:O nghệ:O sĩ:O nal:B-artist
+bật cho bài chỉ là không cùng nhau trong chỉ là không cùng nhau của nghệ sĩ tăng phúc
+bật giúp tôi một bài nhạc xuân
+mở giúp tôi bài khuê mộc lang của nghệ sĩ hương ly
+bật giùm một bài hát trong song ca rumba của nhóm lưu ánh loan và bằng chương
+mở dùm tôi một bài nhạc của ca sĩ đan trường 
+mở cho tôi bài vui lắm nha trong album vui lắm nha của ca sĩ hương ly và jombie
+mở cho bài bắt cá không anh 
+bật bài trên nhjip cầu tre trong lỗi tại ai của nhạc sĩ khưu huy vũ và ngọc hân
+cho tôi nghe một bài nhạc tết nào đó
+bật một bài nào đó trong lưu số em đi của nhạc sĩ huỳnh vân và nghệ sĩ vũ phụng tiên
+mở cho một bài nhạc gì đó trong album để cho em khóc biển đêm của ca sĩ lưu ánh loan 
+bật giùm tôi một bài nhạc rock
+mở giúp một bài nào đó của nhóm đinh tùng huy
+tôi muốn nghe một bài nhạc tết
+bật giúp một bài hát nào đó trong vì lỡ thương nhau của ca sĩ tiết duy hòa và thùy trang
+bật giùm một bài nhạc của ca sĩ tăng phúc 
+bật một bài nhạc trong album chiều đong nhớ anh 
+mở giúp tôi một bài hát nào đó trong album cơn mưa bình yên 
+mở cho một bài hát rap gì đó
+tôi muốn nghe một bài nhạc trong album xem như em chắng may của ban nhạc chu thúy quỳnh và ca sĩ trung ngon
+bật giúp một bài hát trữ tình gì đó
+cho tôi nghe một bài hát của ban nhạc KICM 
+mở giúp tôi một bài hát nào đó trong album xem như em chắng may 
+bật giùm tôi bài hát ai chung tình được mãi của nhóm đinh tùng huy
+mở dùm tôi một bài hát gì đó trong album thôi em về đi em 
+mở giúp bài hát vui lắm nha trong album vui lắm nha
+bật cho một bài gì đó của nhạc sĩ khưu huy vũ
+bật cho tôi một bài hát của nhạc sĩ đinh tùng huy 
+bật cho bài hát sài gòn đau lòng quá trong album sài gòn đau lòng quá
+mở giùm một bài quê hương nào đó
+bật giúp một bài jazz nào đó của nghệ sĩ châu khải phong 
+mở cho một bài quê hương nào đó của nhạc sĩ đen 
+bật cho tôi một bài hát nào đó của ca sĩ đông quân
+bật giúp tôi một bài nhạc trong album tình đồng chí của đông quân và thanh ngọc
+mở giúp tôi một bài nào đó trong mười năm đợi chờ của nhạc sĩ âu nam thái 
+bật một bài trẻ
+bật cho tôi một bài hát xuân nào đó của đông quân 
+mở một bài hát nào đó của ca sĩ KICM
+bật giùm tôi một bài hát xuân
+bật một bài hát gì đó trong album cô đơn dành cho ai 
+mở một bài nào đó trong album bắt cá không anh của ban nhạc minh hang và nghệ sĩ đỗ hiếu
+bật giùm tôi một bài nào đó trong những trái tim việt nam của nghệ sĩ tạ quang thắng và ca sĩ bảo trâm
+bật cho bài mang tiền về cho mẹ trong album mang tiền về cho mẹ
+tôi muốn nghe bài hát ai mang cô đơn đi trong album ai mang cô đơn đi của ca sĩ KICM
+mở giùm một bài nhạc trữ tình gì đó
+mở bài hát về lại đồi sim của lưu ánh loan
+mở giùm một bài nào đó trong album mang tiền về cho mẹ 
+bật giúp tôi bài hát vợ chồng son trong album vợ chồng son
+mở cho một bài nhạc trong album chiều đong nhớ anh của nghệ sĩ lưu ánh loan và tùng anh
+mở cho tôi bài hát vui lắm nha trong album vui lắm nha của nghệ sĩ hương ly
+tôi muốn nghe một bài nhạc của nhạc sĩ hương ly 
+mở cho một bài hát nào đó của nhóm đông quân
+bật giúp một bài trữ tình
+bật một bài nhạc quê hương gì đó
