@@ -11,7 +11,7 @@ class Timer():
         self.pattern_file = pd.read_excel("timer.xlsx")
         self.filler = pd.read_excel("datetime.xlsx")
 
-    def genBase(self,n,arr=None):
+    def genBase(self,n,arr=-1):
         s1 = pd.Series(self.pattern_file['s1']).dropna()
         s2 = pd.Series(self.pattern_file['s2']).dropna()
         s3 = pd.Series(self.pattern_file['s3']).dropna()

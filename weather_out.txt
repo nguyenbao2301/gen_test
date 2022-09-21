@@ -1,0 +1,100 @@
+O O O O O O O O O O B-date_number I-date_number B-month I-month O B-location I-location
+O O O B-location O B-date_number I-date_number B-month I-month O O O O
+O O O O O O O O O B-date_number I-date_number B-month I-month O B-location
+B-pod B-date_name I-date_name B-relative I-relative O B-location I-location O O O O
+O O O O O B-date_number I-date_number B-month I-month O B-location I-location O O
+O O O O O B-date_number I-date_number B-month I-month O B-location I-location O O
+O O O O O O O B-location I-location
+O O O O O O B-date_number I-date_number B-month I-month O O B-location O O O
+O O O O O O B-location O B-date_number I-date_number B-month I-month O O O O
+O O O O O O O O O O B-pod B-date_number I-date_number B-month I-month
+B-pod B-relative I-relative O O O O
+O O O O O O B-location O B-date_number I-date_number B-month I-month
+B-pod B-relative I-relative O B-location O O O
+O O B-date_number I-date_number B-month I-month O B-location I-location I-location
+O O O O O B-date_number I-date_number B-month I-month 
+B-pod B-relative O O B-location I-location O O
+O O O O O B-date_number I-date_number B-month I-month 
+O O O O O B-pod B-date_name I-date_name B-relative I-relative I-relative O O O B-location
+O O O O O O O O B-date_number I-date_number B-month I-month O B-location I-location
+B-relative O B-weather O
+O O O B-date_number I-date_number B-month I-month O B-location I-location
+O O O O O O B-location I-location
+O O O B-location I-location B-pod B-relative I-relative O O O
+O O O O O O O O B-pod B-date_number I-date_number B-month I-month
+B-pod B-date_name I-date_name B-relative I-relative O O O B-location I-location O B-weather O
+O O B-date_number I-date_number B-month I-month
+O O O O O O B-location B-date_name I-date_name B-relative I-relative I-relative
+O O O O O O B-pod B-date_number I-date_number B-month I-month
+B-date_name I-date_name B-relative I-relative O B-weather I-weather O
+O O O O O B-location I-location B-relative I-relative
+O O O O O B-pod B-date_number I-date_number B-month I-month
+O O O B-date_number I-date_number B-month I-month 
+O O O O B-date_number I-date_number B-month I-month O B-location
+O O O B-location I-location B-pod B-relative
+O O O O B-location O B-date_number I-date_number B-month I-month
+O O O O O O O B-date_number I-date_number B-month I-month O O B-location I-location
+B-date_name I-date_name B-relative I-relative O B-weather O B-location O
+O O O O O O O O B-date_number I-date_number B-month I-month O B-location
+O O O O O O B-pod I-pod B-date_number I-date_number B-month I-month
+O O O O O O O O O B-location
+O O O O O O O B-date_number I-date_number B-month I-month
+O O O O B-date_number I-date_number B-month I-month O B-location O O O
+O O O O O O O B-date_number I-date_number B-month I-month O O B-location
+O O O O O O B-location B-pod B-relative O O O
+O O O O O B-date_number I-date_number B-month I-month O O B-location I-location O O O
+O O O O B-date_number I-date_number B-month I-month O O B-location
+O O O O O O O O B-date_number I-date_number B-month I-month
+O O O O O B-pod B-date_name I-date_name B-relative I-relative O B-location I-location O O
+O O O O O O O O B-location I-location O B-date_number I-date_number B-month I-month O O O
+O O O B-location I-location
+O O O O O O O O B-location I-location B-date_name I-date_name B-relative I-relative
+B-pod B-relative I-relative O O O B-location I-location O O O
+O O B-relative I-relative O O O B-location
+B-pod B-date_name I-date_name B-relative I-relative O O O O B-location O O O
+O O B-date_number I-date_number B-month I-month O B-location O O
+O O B-date_name I-date_name B-relative I-relative O O B-location I-location
+B-pod B-date_name I-date_name B-relative I-relative O O O B-location I-location I-location O B-weather O
+B-pod B-relative O B-location O O O
+O O O O O O O O B-pod I-pod B-date_number I-date_number B-month I-month
+B-date_name I-date_name B-relative I-relative O O B-location I-location O O O
+O O O O O O O B-pod B-date_number I-date_number B-month I-month O B-location
+O O O O O O B-pod B-date_number I-date_number B-month I-month O O O
+B-pod B-date_name I-date_name B-relative I-relative I-relative O O B-location O O O O
+O O O O B-date_number I-date_number B-month I-month O B-location O O
+O O O O O O O O B-pod I-pod B-date_number I-date_number B-month I-month O B-location I-location
+O O O O O O B-date_number I-date_number B-month I-month O O O
+O O O O O O O O B-date_number I-date_number B-month I-month O O B-location I-location
+O O O O B-location I-location B-pod B-relative O O O O
+O O O O O B-date_number I-date_number B-month I-month O O B-location O O
+O O B-date_number I-date_number B-month I-month O B-location I-location
+O O O O O O O O O B-pod B-date_number I-date_number B-month I-month O O O B-location
+O O B-date_number I-date_number B-month I-month O O B-location I-location
+O O O O O B-location
+O O O O O O O B-date_number I-date_number B-month I-month
+O O B-date_number I-date_number B-month I-month O O B-location I-location O O O
+O O O O O O O O B-date_number I-date_number B-month I-month O B-location
+B-pod B-date_name I-date_name B-relative I-relative O B-weather I-weather O
+O O O O O O B-pod B-date_number I-date_number B-month I-month
+B-pod B-relative I-relative O B-weather O
+O O O O O O O O B-date_number I-date_number B-month I-month
+O O B-date_name I-date_name B-relative I-relative O B-location I-location O O
+O O O O O O O B-date_number I-date_number B-month I-month
+O O O O O B-location I-location B-pod B-relative O O O
+O O B-date_name I-date_name B-relative I-relative O O B-location O O
+O O O O B-pod B-date_name I-date_name B-relative I-relative I-relative O B-location
+O O O B-location I-location 
+O O O O O O O B-date_number I-date_number B-month I-month
+O O O O O O O O B-date_number I-date_number B-month I-month O B-location
+O O O O O O O O B-pod I-pod B-date_number I-date_number B-month I-month O O B-location I-location
+O O O O B-location I-location O B-date_number I-date_number B-month I-month O O O
+O O O O O B-date_number I-date_number B-month I-month O O
+B-pod B-date_name I-date_name B-relative I-relative I-relative O B-location I-location O O O O
+O O O O O B-pod B-date_name I-date_name B-relative I-relative O B-location
+O O O O O O O O O O B-date_number I-date_number B-month I-month O O O B-location
+B-relative I-relative O O O B-location I-location O O O O
+O O O O O O B-pod B-date_number I-date_number B-month I-month
+O O B-date_number I-date_number B-month I-month O B-location I-location I-location O O O O
+O O O O O B-location I-location I-location I-location B-pod B-date_name I-date_name B-relative I-relative
+B-date_name I-date_name B-relative I-relative O B-location O O O
+O O O O O O O O O B-pod B-date_number I-date_number B-month I-month O B-location I-location

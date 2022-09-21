@@ -1,6 +1,7 @@
 from gen_alarm import Alarm
 from gen_song import Song
 from gen_timer import Timer
+from gen_weather import Weather
 import random
 import argparse
 
@@ -27,6 +28,7 @@ def export(arr):
         # for word,tag in zip(w.split(),t.split()):
         #     temp = temp +word+':'+tag+' '
         # temp = temp +l
+        w = w.replace("  "," ").replace('+',' ')
         f_in.write(w+'\n')
         f_out.write(t+'\n')
         f_label.write(l+'\n')
@@ -38,29 +40,24 @@ def main(args):
     t = Timer()
     s = Song()
     a = Alarm()
+    w = Weather()
 
     arr = []
     n  = args.n
-    while(n>0):
-        num_gens = random.randint(1,int(n/2)) if int(n/2) > 1 else 1
-        j = random.randint(0,2)
-        if(j==0):
-            a.genBase(num_gens,arr)
-        elif j==1:
-            t.genBase(num_gens,arr)
-        elif j==2:
-            s.genBase(num_gens,arr)
-        else:
-            return
-
-        n = n-num_gens
-    
+    # while(n>0):
+    num_gens = int(n/4)
+    t.genBase(num_gens,arr)
+    a.genBase(num_gens,arr)
+    s.genBase(num_gens,arr)
+    w.genBase(num_gens,arr)
+        
+    random.shuffle(arr)
     export(arr)
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # parser.add_argument('--self.fill',type=str,required=True)
     # parser.add_argument('--pattern',type=str,required=True)
-    parser.add_argument('--n',type=int,default=100)
+    parser.add_argument('--n',type=int,default=8000)
     args = parser.parse_args()
     main(args)
